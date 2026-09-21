@@ -1,10 +1,10 @@
-<svg style="width: 20px;height: 20px;vertical-align: middle" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-                <g id="SVGRepo_iconCarrier">
-                  <rect x="0" fill="none" width="20" height="20"></rect>
-                  <g>
-                    <path style="fill: #12a538;" d="M13 13.14l1.17-5.94c.79-.43 1.33-1.25 1.33-2.2 0-1.38-1.12-2.5-2.5-2.5S10.5 3.62 10.5 5c0 .95.54 1.77 1.33 2.2zm0-9.64c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zm1.72 4.8L18 6.97v9L13.12 18 7 15.97l-5 2v-9l5-2 4.27 1.41 1.73 7.3z"></path>
-                  </g>
-                </g>
-              </svg>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="560px" height="560px" viewBox="0 0 560 560" enable-background="new 0 0 560 560" xml:space="preserve">
+<g id="SVGRepo_iconCarrier">
+	<g>
+		<path fill="#12A538" d="M364,367.92l32.76-166.32c22.12-12.04,37.24-35,37.24-61.6c0-38.64-31.36-70-70-70s-70,31.36-70,70
+			c0,26.6,15.12,49.56,37.24,61.6L364,367.92z M364,98c23.24,0,42,18.76,42,42s-18.76,42-42,42s-42-18.76-42-42S340.76,98,364,98z
+			 M412.16,232.4L504,195.16v252L367.36,504L196,447.16l-140,56v-252l140-56l119.56,39.48L364,439.04L412.16,232.4z"/>
+	</g>
+</g>
+</svg>
